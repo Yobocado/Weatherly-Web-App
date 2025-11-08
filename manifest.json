@@ -1,6 +1,6 @@
 {
-    "name": "chatbot_project",
-    "short_name": "chatbot_project",
+    "name": "Weatherly",
+    "short_name": "Weatherly",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
@@ -33,3 +33,4 @@
         }
     ]
 }
+
